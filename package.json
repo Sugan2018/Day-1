@@ -1,0 +1,22 @@
+{
+  "name": "javascript_11-am_sep-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arraymethods.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sugan2018/Day-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sugan2018/Day-1/issues"
+  },
+  "homepage": "https://github.com/Sugan2018/Day-1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
