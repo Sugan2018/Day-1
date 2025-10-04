@@ -32,3 +32,12 @@ let obj = {
     City : "chennai",
 }
 console.log(obj);
+
+// updated by suganya in sugan module
+
+let obj = {
+    name : "Sugan",
+    place : "Koyembedu",
+    City : "chennai",
+}
+console.log(obj);
