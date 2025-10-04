@@ -37,7 +37,7 @@ console.log(obj);
 
 let obj = {
     name : "Sugan",
-    place : "Koyembedu",
+    place : "Chennai",
     City : "chennai",
 }
 console.log(obj);
