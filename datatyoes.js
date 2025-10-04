@@ -36,7 +36,7 @@ console.log(obj);
 // updated by suganya in sugan module
 
 let obj = {
-    name : "Sugan",
+    name : "Rasheed",
     place : "Koyembedu",
     City : "chennai",
 }
