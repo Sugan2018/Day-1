@@ -38,6 +38,8 @@ console.log(obj);
 let obj = {
     name : "Sugan",
     place : "Chennai",
+    name : "Rasheed",
+    place : "Koyembedu",
     City : "chennai",
 }
 console.log(obj);
